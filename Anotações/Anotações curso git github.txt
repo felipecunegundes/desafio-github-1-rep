@@ -1,0 +1,6 @@
+Anotação sobre objetos internos do git:
+
+blobs em teoria são pequenas bolhas, as quais contem informações e sua própria SHA
+Tree são um conjunto de bolhas, a qual possui sua propria SHA e se algo ocorre com as blobs as trees seram afetadas
+commits são um conjunto de arvores, os quais possuem sua propria SHA e casa algo seja alterado nas trees ou blobs os commits sofreram alterações tbm
+tudo isso existe como uma medida de segurança para manter a integridade do seu código, haja vista que apenas uma virgula basta para alterar a SHA de um OBJETO

@@ -1,0 +1,6 @@
+ASSISTIDAS:
+Introdução ao pensamento computacional 
+Introdução ao git/github
+
+ADICIONAL:
+Lógica de proframação com Denilson Bonatti
